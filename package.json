@@ -1,0 +1,26 @@
+{
+  "name": "alfred-oneliner-kintai",
+  "version": "0.0.1",
+  "description": "",
+  "main": "src/index.js",
+  "dependencies": {
+    "alfy": "^0.10.0",
+    "eslint": "^7.15.0",
+    "eslint-config-google": "^0.14.0",
+    "tsv": "^0.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dh9489/alfred-oneliner-kintai.git"
+  },
+  "author": "daigohayashi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dh9489/alfred-oneliner-kintai/issues"
+  },
+  "homepage": "https://github.com/dh9489/alfred-oneliner-kintai#readme"
+}
